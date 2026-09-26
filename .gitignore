@@ -218,3 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 Langchain_models/venv311/
+
+.vscode/
